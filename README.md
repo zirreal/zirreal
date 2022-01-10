@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @zirreal
+- 👋 Hi, I’m Julia
+- 👩🏻‍💻 I'm front-end developer
 - 👀 I’m interested in JavaScript, React, Vue
-- 🌱 I’m currently learning PHP, Redux
+- 📚 Always learning...
 
 <!---
 zirreal/zirreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
