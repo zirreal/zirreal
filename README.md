@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Julia
 - 👩🏻‍💻 I'm front-end developer
-- 👀 I’m interested in JavaScript, React, Vue
-- 📚 Always learning...
+
+✨unnesesary and useless stats to make this page prettier:✨
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zirreal&show_icons=true&theme=dracula)
 
 <!---
 zirreal/zirreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
