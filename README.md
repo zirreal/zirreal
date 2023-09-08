@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julia
 - 👩🏻‍💻 I'm front-end developer
 
-✨unnesesary and useless stats to make this page prettier:✨
+✨unnecessary and useless stats to make this page prettier✨
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zirreal&show_icons=true&theme=dracula)
 
